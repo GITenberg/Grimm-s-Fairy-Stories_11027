@@ -1,5 +1,5 @@
 _repo: Grimm-s-Fairy-Stories_11027
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrators:
   - agent_name: Gruelle, Johnny
@@ -15,6 +15,9 @@ contributor:
     deathdate: 1957
     gutenberg_agent_id: '5821'
     url: http://www.gutenberg.org/2009/agents/5821
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Grimm, Jacob
@@ -32,6 +35,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/972
     wikipedia: http://en.wikipedia.org/wiki/Wilhelm_Grimm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11027#Grimm-s-Fairy-Stories
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
